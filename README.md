@@ -18,10 +18,21 @@ Here are some ideas to get you started:
 
 I'm a Software & Network Engineer passionate about building scalable systems, intuitive dashboards, and impactful AI applications.  
 
-🔧 **Tech Stack:** Python | C/C++ | Docker | Ansible | MongoDB | Plotly Dash | AWS | GenAI  
+### 🎯 Areas of Expertise
+
+- **Programming Languages:** Python, C/C++, Shell Scripting, HTML/CSS
+- **Frameworks:** Django, Flask, REST APIs, Plotly Dash
+- **Databases:** MySQL, NoSQL (MongoDB)
+- **Cloud Platforms:** AWS
+- **DevOps:** Docker, Git, Ansible
+
+
+
 🌱 **Learning:** AWS Cloud, Advanced GenAI apps  
 💬 **Ask me about:** Network automation, RAG with GenAI, Dashboards with Plotly  
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/samyuktha-saravanan)  
+  - Open to collaborate on projects
+
 
 <!-- Stats -->
 ![Samyuktha's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyuktha-saravanan&show_icons=true&theme=radical)
