@@ -30,7 +30,7 @@ I'm a Software & Network Engineer passionate about building scalable systems, in
 🌱 **Learning:** AWS Cloud, Advanced GenAI apps  
 💬 **Ask me about:** Network automation, RAG with GenAI, Dashboards with Plotly  
 📫 **How to reach me:** 
-[LinkedIn](https://www.linkedin.com/in/samyuktha-saravanan)  
+- [LinkedIn](https://www.linkedin.com/in/samyuktha-saravanan)  
 - Open to collaborate on projects
 
 
